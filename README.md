@@ -1,4 +1,6 @@
 # gestion_admin
+### lien utile 
+https://python.doctor/page-django-interface-admin-administration-settings-django-contrib-auth
 
 ```python
   from django.contrib import admin
