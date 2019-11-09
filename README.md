@@ -1,6 +1,7 @@
 # gestion_admin
 ### lien utile 
 https://python.doctor/page-django-interface-admin-administration-settings-django-contrib-auth
+https://blog.mounirmesselmeni.de/2016/03/21/how-to-order-a-calculated-count-field-in-djangos-admin/
 
 ```python
   from django.contrib import admin
